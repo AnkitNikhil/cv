@@ -2,16 +2,16 @@
 
 
 body{
-    background-color: #393E46;
+    background-color: #A6BB8D;
 }
 h1{
-    color: whitesmoke;
+    color: #000000;
 }
 h2{
-    color: whitesmoke;
+    color: #000000;
 }
 h3{
-    color: whitesmoke;
+    color: #000000;
 
 
 }
@@ -36,9 +36,10 @@ hr{
 
 
 .learn{
-    color: whitesmoke;
+    color: #000000;
 }
 
-.red{
-    color: gold;
+.red:hover{
+    color: red;
+
 }
