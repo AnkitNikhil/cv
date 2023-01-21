@@ -2,16 +2,16 @@
 
 
 body{
-    background-color: #A6BB8D;
+    background-color: #393E46;
 }
 h1{
-    color: #562B08;
+    color: whitesmoke;
 }
 h2{
-    color: #562B08;
+    color: whitesmoke;
 }
 h3{
-    color: #562B08;
+    color: whitesmoke;
 
 
 }
@@ -32,4 +32,13 @@ hr{
 }
 .ankit{
     width: 130px;
+}
+
+
+.learn{
+    color: whitesmoke;
+}
+
+.red{
+    color: gold;
 }
