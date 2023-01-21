@@ -2,23 +2,23 @@
 
 
 body{
-    background-color: #A6BB8D;
+    background-color: #FCFFE7;
 }
 h1{
-    color: #000000;
+    color: #5F8D4E;
 }
 h2{
-    color: #000000;
+    color: #5F8D4E;
 }
 h3{
-    color: #000000;
+    color: #5F8D4E;
 
 
 }
 
 hr{
    border-style: dotted none none;
-   border-color: grey;
+   border-color: black;
    border-width: 5px;
    width: 5%;
 }
